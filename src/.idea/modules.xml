@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activity _and_Sequence/Activity _and_Sequence.iml" filepath="$PROJECT_DIR$/Activity _and_Sequence/Activity _and_Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10_Exceptions Handling/Chapter10_Exceptions Handling.iml" filepath="$PROJECT_DIR$/Chapter10_Exceptions Handling/Chapter10_Exceptions Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2_Challenge_Exercises/Chapter2_Challenge_Exercises.iml" filepath="$PROJECT_DIR$/Chapter2_Challenge_Exercises/Chapter2_Challenge_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2_Java_Fundamentals/Chapter2_Java_Fundamentals.iml" filepath="$PROJECT_DIR$/Chapter2_Java_Fundamentals/Chapter2_Java_Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3_First_look_OOP/Chapter3_First_look_OOP.iml" filepath="$PROJECT_DIR$/Chapter3_First_look_OOP/Chapter3_First_look_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3_Programming Challenges/Chapter3_Programming Challenges.iml" filepath="$PROJECT_DIR$/Chapter3_Programming Challenges/Chapter3_Programming Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4_Decision_Structure/Chapter4_Decision_Structure.iml" filepath="$PROJECT_DIR$/Chapter4_Decision_Structure/Chapter4_Decision_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4_Programming_challenges/Chapter4_Programming_challenges.iml" filepath="$PROJECT_DIR$/Chapter4_Programming_challenges/Chapter4_Programming_challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5_LOOPS/Chapter5_LOOPS.iml" filepath="$PROJECT_DIR$/Chapter5_LOOPS/Chapter5_LOOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6_Programming_Challenges/Chapter6_Programming_Challenges.iml" filepath="$PROJECT_DIR$/Chapter6_Programming_Challenges/Chapter6_Programming_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6_Second_look_OOP/Chapter6_Second_look_OOP.iml" filepath="$PROJECT_DIR$/Chapter6_Second_look_OOP/Chapter6_Second_look_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7_Array/Chapter7_Array.iml" filepath="$PROJECT_DIR$/Chapter7_Array/Chapter7_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7_Programming Challenge/Chapter7_Programming Challenge.iml" filepath="$PROJECT_DIR$/Chapter7_Programming Challenge/Chapter7_Programming Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9_Inheritance/Chapter9_Inheritance.iml" filepath="$PROJECT_DIR$/Chapter9_Inheritance/Chapter9_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9_Programming Challgenges/Chapter9_Programming Challgenges.iml" filepath="$PROJECT_DIR$/Chapter9_Programming Challgenges/Chapter9_Programming Challgenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPractice/ExamPractice.iml" filepath="$PROJECT_DIR$/ExamPractice/ExamPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files/Files.iml" filepath="$PROJECT_DIR$/Files/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files2/Files2.iml" filepath="$PROJECT_DIR$/Files2/Files2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPractice/MyPractice.iml" filepath="$PROJECT_DIR$/MyPractice/MyPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop/Workshop.iml" filepath="$PROJECT_DIR$/Workshop/Workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+    </modules>
+  </component>
+</project>
